@@ -1,8 +1,14 @@
----
 layout: project
-title: Portfolio?repo?idk
+title: Linear Actuator Design
 description: 1 member, linear actuator design
 technologies: NA
-images: assets/images/IMG_9746.JPG
+image: assets/images/IMG_9746.JPG
 ---
 
+## Project Overview
+
+This project involved designing a linear actuator for a robotics application.
+
+## Design Preview
+
+![Linear Actuator Design](../assets/images/IMG_9746.JPG)
