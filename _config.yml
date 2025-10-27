@@ -8,12 +8,12 @@
 
 # Site Settings
 locale                   : "en-US"
-title                    : Audrey Hubbell
+title                    : Audrey Hubbell Portfolio
 title_separator          : "-"
 subtitle                 : # site tagline that appears below site title in masthead
-name                     : Your Name
-description              : Your Name - Projects and CV 
-baseurl                  : "" # Set this to your repo name 
+name                     : Audrey Hubbell
+description              : Audrey Hubbell - Projects and CV 
+baseurl                  : "/fa25-portfolio-arh258"
 
 # Theme and Style
 theme: jekyll-theme-minimal
