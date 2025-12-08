@@ -29,7 +29,7 @@ By setting the mechanism to equilibrium, one can see that the Moment balence imp
 Cross Section: W150x18
 Material: Rolled Steel
 
-<h2><b>Deflection Analysis</b><h/>
+<h2><b>Deflection Analysis</b></h>
 <b>Assumptions</b>
 Assumes: the weight of the beam itself to be modelled by the distributed loading, the weight applied to the beam to be modelled by a point load, the force of the actuator to be modelled by a pin to allow the pin-pin set up, assumes the beam to be weightless to ease I calculations
 
