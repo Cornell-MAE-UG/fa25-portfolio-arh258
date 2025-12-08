@@ -21,7 +21,3 @@ We had to choose how to make the design, what type of actuator to use, and how l
 
 ## STATIC ANALYSIS
 By setting the mechanism to equilibrium, one can see that the Moment balence implies that a greater torque would come from further distance from the rotating axis. In order to maximize this torque for purposes of the linear actuator, I placed the linear actuator at the furthermost part from the rotating axis. I then chose the RSX linear actuator to maximize this torque. By geometric analysis, one can see that the longer the beam, the higher the theoretical height achieved could be. Therefore, the beam should be as long as possible within the constraints (150cm) to lift the weight to the heighest value.
-
-## Design
-
-![Linear Actuator Design](../assets/images/IMG_9746.JPG)
