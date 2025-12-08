@@ -13,18 +13,16 @@ This project involved designing a linear actuator for a statics application. My 
 -Must fit without a 150x50 cm design space
 -Must use 3 pins (2 pinned to the ground)
 -Must involve a linear actuator
--Must optimize lifting height
+-Must optimize lifting height<br>
 
 <b>DESIGN DEGREES OF FREEDOM</b>
-We had to choose how to make the design, what type of actuator to use, and how long the bar was
+We had to choose how to make the design, what type of actuator to use, and how long the bar was<br>
 
 <b>STATIC ANALYSIS</b>
-By setting the mechanism to equilibrium, one can see that the Moment balence implies that a greater torque would come from further distance from the rotating axis. In order to maximize this torque for purposes of the linear actuator, I placed the linear actuator at the furthermost part from the rotating axis. I then chose the RSX linear actuator to maximize this torque. By geometric analysis, one can see that the longer the beam, the higher the theoretical height achieved could be. Therefore, the beam should be as long as possible within the constraints (150cm) to lift the weight to the heighest value.
+By setting the mechanism to equilibrium, one can see that the Moment balence implies that a greater torque would come from further distance from the rotating axis. In order to maximize this torque for purposes of the linear actuator, I placed the linear actuator at the furthermost part from the rotating axis. I then chose the RSX linear actuator to maximize this torque. By geometric analysis, one can see that the longer the beam, the higher the theoretical height achieved could be. Therefore, the beam should be as long as possible within the constraints (150cm) to lift the weight to the heighest value.<br>
 
-<b>MAX DEFELCTION</b>
-
-<h3><b>BEAM DESIGN</b></h3>
-<h4>less than 2% length deflection</h4>
+<h3><b>MAX DEFELCTION</b></h3>
+less than 2% length deflection <br>
 <b>Design Choices</b>
 Cross Section: W150x18
 Material: Rolled Steel
