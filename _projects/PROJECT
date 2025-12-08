@@ -27,7 +27,7 @@ less than 2% length deflection <br>
 Cross Section: W150x18
 Material: Rolled Steel
 
-<h2>Deflection Analysis</h2>
+<h3>Deflection Analysis</h3>
 <b>Assumptions</b><br>
 Assumes: the weight of the beam itself to be modelled by the distributed loading, the weight applied to the beam to be modelled by a point load, the force of the actuator to be modelled by a pin to allow the pin-pin set up, assumes the beam to be weightless to ease I calculations
 
