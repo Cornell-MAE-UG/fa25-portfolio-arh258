@@ -1,7 +1,7 @@
 ---
 layout: project
-title: Spaceship Design
-description: Just a spaceship that I designed
+title: Linear Actuator Design
+description: A linear actuator design using specific constraints to solve a problem
 technologies: []
 image: /assets/images/design.jpg
 ---
