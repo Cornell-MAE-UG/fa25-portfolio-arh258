@@ -40,3 +40,4 @@ ax deflection occurs halfway through the beam and is modeled by the distrbuted l
 <img src="/assets/images/work.jpg" alt="Work" class="project-image">
 
 
+![Final Design]({{ "assets/images/work.jpg" | relative_url }}){: .inline-image-l style="width: 75%"}
