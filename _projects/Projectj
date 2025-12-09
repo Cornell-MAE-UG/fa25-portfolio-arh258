@@ -38,5 +38,5 @@ M
 ax deflection occurs halfway through the beam and is modeled by the distrbuted load pinned-pinned beam in appendix B. This model assumes that the linear actuator's load can be modelled by the reaction for in the right roller given the beam is in static equilibrium. Therefore, the whatever weight is applied to the beam can be modelled by a point load halfway through the beam. The weight of the beam can be modelled by the dsitrbuted load and the superposition of these elements result in the max deflection (which occurs at the same spot halfway through the beam). Delta (max)= -5wL^4/384EI-(PL^3)/48EI so to minimize the deflection we must maximize E and I. E is given to us by assuming Rolled Steel as the material. After assuming a weightless beam, we can directly solve for I using the max deflection to be 0.03m (2% length) and get that it must exceed 6.89 10^6 so to play it safe, I chose W150x18 cross section to account for the beam's weight which should not be too much of a factor. The weight distribution is also maximized in this layout over something like a circular or rectangular cross section.
 
 
-image: /assets/images/work.jpg
+!image: /assets/images/work.jpg
 
