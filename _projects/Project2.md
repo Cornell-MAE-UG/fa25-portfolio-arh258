@@ -84,8 +84,8 @@ In the code below, Andrew Nocily (groupmember) calculated the mass flow rate of 
     xlabel("Index")
     ylabel("Power [MW]")
 
-![Shaded rendering of earlier version]({{ "/assets/images/water.jpg" | relative_url }}){: .inline-image-r style="width: 200px"}
+![Shaded rendering of earlier version]({{ "/assets/images/water.jpg" | relative_url }}){: .inline-image-r style="width: 500px"}
 
-![Shaded rendering of earlier version]({{ "/assets/images/powerchart.jpg" | relative_url }}){: .inline-image-r style="width: 200px"}
+![Shaded rendering of earlier version]({{ "/assets/images/powerchart.jpg" | relative_url }}){: .inline-image-r style="width: 500px"}
 
 Clearly, power output depends on the volumetric discharge of the river and has varying power outputs depending on the season and daily weather.
