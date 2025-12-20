@@ -13,10 +13,10 @@ This project was an assignment in my Thermodynamics class by which we applied ou
 
 <h2><b> IMAGES OF DEVICE AS A SYSTEM</b></h2>
 The Hydroturbine in the collective cycle
-![Shaded rendering of earlier version]({{ "/assets/images/overallsystem.jpg" | relative_url }}){: .inline-image-r style="width: 200px"}
+![Shaded rendering of earlier version]({{ "/assets/images/overallsystem.jpg" | relative_url }}){: .inline-image-r style="width: 500px"}
 
 The hydroturbine isolated (useful for our analysis)
-![Shaded rendering of earlier version]({{ "/assets/images/device.jpg" | relative_url }}){: .inline-image-r style="width: 200px"}
+![Shaded rendering of earlier version]({{ "/assets/images/device.jpg" | relative_url }}){: .inline-image-r style="width: 500px"}<br>
 
 
 
@@ -26,21 +26,17 @@ The hydroturbine isolated (useful for our analysis)
 <b>Mathematical:</b><br>
 The best analysis for this setup is to model the cross-flow turbine as a control volume system operating at steady state, as the presence of running water makes a control model approximation unrealistic.<br>
 
-Entropy:<br>
-
-![Shaded rendering of earlier version]({{ "/assets/images/entropy.jpg" | relative_url }}){: .inline-image-r style="width: 200px"}
+Entropy: ![Shaded rendering of earlier version]({{ "/assets/images/entropy.jpg" | relative_url }}){: .inline-image-r style="width: 500px"}
 
 Due to limitations in the thermodynamics I have taken, I am unable to calculate the relative entropy change of the system, as that would take considerations of turbulent flow, friction between containing walls and particles, etc., that I am unable to do. For lack of a better process, I will stop with this equation here and return after later semesters for further, more detailed analysis than simply modeling the system as isentropic with no entropy generation.<br>
 
-Energy: <br>
-
-![Shaded rendering of earlier version]({{ "/assets/images/energy.jpg" | relative_url }}){: .inline-image-r style="width: 200px"}
+Energy: ![Shaded rendering of earlier version]({{ "/assets/images/energy.jpg" | relative_url }}){: .inline-image-r style="width: 500px"}
 
 For this model, it again makes sense to neglect heat transfer, as a turbine can be reasonably modeled as adiabatic without significantly affecting its operation. Assuming steady state as well, the energy term on the left can be neglected and mass terms can be combined. Due to limitations of current coursework, it also makes sense to have the enthalpy and velocity constant during the process, as it would be difficult to calculate specific values.<br>
 
 This leaves power equal to the mass flow rate times the difference in specific potential energy. For a steady state system, mass flow rate can be found by multiplying volumetric creek flow by water’s density. For this part, I used USGS.gov’s automatic measurements of the discharge of Fall Creek to see how power output changes over the course of the year with different variable water flow rates.<br>
 
-Final Work Rate Value: ![Shaded rendering of earlier version]({{ "/assets/images/workequation.jpg" | relative_url }}){: .inline-image-r style="width: 200px"}
+Final Work Rate Value: ![Shaded rendering of earlier version]({{ "/assets/images/workequation.jpg" | relative_url }}){: .inline-image-r style="width: 500px"}<br>
 
 System Interaction Diagram:
 
