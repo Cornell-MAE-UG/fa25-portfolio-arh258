@@ -88,3 +88,5 @@ Clearly, power output depends on the volumetric discharge of the river and has v
 ![Shaded rendering of earlier version]({{ "/assets/images/water.jpg" | relative_url }}){: .inline-image-r style="width: 500px"}
 
 ![Shaded rendering of earlier version]({{ "/assets/images/powerchart.jpg" | relative_url }}){: .inline-image-r style="width: 500px"} <br>
+
+Completed with Andrew Nocily, Annika Terezakis, and James Larrabee
