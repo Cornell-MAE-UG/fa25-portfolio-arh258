@@ -37,9 +37,10 @@ For this model, it again makes sense to neglect heat transfer, as a turbine can 
 This leaves power equal to the mass flow rate times the difference in specific potential energy. For a steady state system, mass flow rate can be found by multiplying volumetric creek flow by water’s density. For this part, I used USGS.gov’s automatic measurements of the discharge of Fall Creek to see how power output changes over the course of the year with different variable water flow rates.<br>
 
 Final Work Rate Value: ![Shaded rendering of earlier version]({{ "/assets/images/workequation.jpg" | relative_url }}){: .inline-image-r style="width: 500px"}<br>
-
+<br>
 System Interaction Diagram:
-![Shaded rendering of earlier version]({{ "/assets/images/schematic.jpg" | relative_url }}){: .inline-image-r style="width: 500px"}
+![Shaded rendering of earlier version]({{ "/assets/images/schematic.jpg" | relative_url }}){: .inline-image-r style="width: 500px"} <br>
+<br>
 
 <b> MATLAB RESULTS </b><br>
 USGS provides flow rate in cubic ft per second, for measurements taken every 3 hours and 15 minutes. <br>
