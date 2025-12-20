@@ -12,10 +12,10 @@ image: /assets/images/hydrojpg.jpg
 This project was an assignment in my Thermodynamics class by which we applied our in class skills regarding device analysis to a real world instance of one of these devices. My group and I selected the Ossberger Crossflow G1078/20g (2 cell) —hydroturbine on Beebe/Fall Creek. I worked with James Larrabee, Annika Terezakis, and Andrew Nocily on this project; we did the whole thing entirely as a collective so our websites will essentially match.
 
 <h2><b> IMAGES OF DEVICE AS A SYSTEM</b></h2>
-The Hydroturbine in the collective cycle
-![Shaded rendering of earlier version]({{ "/assets/images/overallsystem.jpg" | relative_url }}){: .inline-image-r style="width: 500px"}
+The Hydroturbine in the collective cycle <br>
+![Shaded rendering of earlier version]({{ "/assets/images/overallsystem.jpg" | relative_url }}){: .inline-image-r style="width: 500px"}<br>
 
-The hydroturbine isolated (useful for our analysis)
+The hydroturbine isolated (useful for our analysis) <br>
 ![Shaded rendering of earlier version]({{ "/assets/images/device.jpg" | relative_url }}){: .inline-image-r style="width: 500px"}<br>
 
 
@@ -26,11 +26,11 @@ The hydroturbine isolated (useful for our analysis)
 <b>Mathematical:</b><br>
 The best analysis for this setup is to model the cross-flow turbine as a control volume system operating at steady state, as the presence of running water makes a control model approximation unrealistic.<br>
 
-Entropy: ![Shaded rendering of earlier version]({{ "/assets/images/entropy.jpg" | relative_url }}){: .inline-image-r style="width: 500px"}
+Entropy: ![Shaded rendering of earlier version]({{ "/assets/images/entropy.jpg" | relative_url }}){: .inline-image-r style="width: 1000px"}
 
 Due to limitations in the thermodynamics I have taken, I am unable to calculate the relative entropy change of the system, as that would take considerations of turbulent flow, friction between containing walls and particles, etc., that I am unable to do. For lack of a better process, I will stop with this equation here and return after later semesters for further, more detailed analysis than simply modeling the system as isentropic with no entropy generation.<br>
 
-Energy: ![Shaded rendering of earlier version]({{ "/assets/images/energy.jpg" | relative_url }}){: .inline-image-r style="width: 500px"}
+Energy: ![Shaded rendering of earlier version]({{ "/assets/images/energy.jpg" | relative_url }}){: .inline-image-r style="width: 1000px"}
 
 For this model, it again makes sense to neglect heat transfer, as a turbine can be reasonably modeled as adiabatic without significantly affecting its operation. Assuming steady state as well, the energy term on the left can be neglected and mass terms can be combined. Due to limitations of current coursework, it also makes sense to have the enthalpy and velocity constant during the process, as it would be difficult to calculate specific values.<br>
 
