@@ -39,6 +39,7 @@ This leaves power equal to the mass flow rate times the difference in specific p
 Final Work Rate Value: ![Shaded rendering of earlier version]({{ "/assets/images/workequation.jpg" | relative_url }}){: .inline-image-r style="width: 500px"}<br>
 
 System Interaction Diagram:
+![Shaded rendering of earlier version]({{ "/assets/images/schematic.jpg" | relative_url }}){: .inline-image-r style="width: 500px"}
 
 <b> MATLAB RESULTS </b><br>
 USGS provides flow rate in cubic ft per second, for measurements taken every 3 hours and 15 minutes. <br>
