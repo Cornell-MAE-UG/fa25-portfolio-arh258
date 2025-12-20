@@ -14,7 +14,7 @@ This project was an assignment in my Thermodynamics class by which we applied ou
 <h2><b> IMAGES OF DEVICE AS A SYSTEM</b></h2>
 The Hydroturbine in the collective cycle <br>
 ![Shaded rendering of earlier version]({{ "/assets/images/overallsystem.jpg" | relative_url }}){: .inline-image-r style="width: 500px"}<br>
-
+<br>
 The hydroturbine isolated (useful for our analysis) <br>
 ![Shaded rendering of earlier version]({{ "/assets/images/device.jpg" | relative_url }}){: .inline-image-r style="width: 500px"}<br>
 
