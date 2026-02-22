@@ -72,3 +72,5 @@ A decoy mimicking the preferred Tree of Heaven, equipped with an automated scrap
 - Dimensions: ~1.5 in long, brown/grey, with rows of small eggs.  
 - Scraped eggs can still hatch; care is needed for full destruction.  
 - Only 2% of egg masses are within reach; 98% are out of reach.  
+
+Consolodated PDF pitch link: https://github.com/arh258/MAE2250_Portfolio/raw/main/O3_ClientOutlineTemplate.pdf
