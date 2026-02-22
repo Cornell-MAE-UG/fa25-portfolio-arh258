@@ -8,54 +8,67 @@ image: /assets/images/slf.png
 
 <h1><b>PROJECT OVERVIEW</b></h1>
 
-Spotted lantern flies reproduce at an extremely rapid rate (with one adult female laying up to 3 egg masses in her lifetime, each containing 30-60 eggs), allowing their population to grow exponentially within a single season. SLFs feed on sap, weaken vines, reduce cold hardiness, and can cause plant death.<br>
+**Team:** Sorry Little Fly  
+**Clients:** Cornell CALS Extension, E&J Gallo Winery, and National Grape  
 
-<b>Impact:</b> By focusing on reducing their ability to reproduce, we can ensure that there will be fewer SLFs to cause harm to grape vines, satisfying our clients. Our product could also be used outside of the vineyards, as SLFs lay eggs almost anywhere. Developing a selective solution allows us to create a scalable model that can be implemented; by having a larger user base, we can make more of an impact on the SLF population, targeting and removing egg masses which are the root source of the infestation!<br>
+<h2><b>PROBLEM STATEMENT</b></h2>
+Spotted lantern flies reproduce at an extremely rapid rate, with one adult female laying up to 3 egg masses in her lifetime, each containing 30–60 eggs, allowing exponential population growth within a single season. SLFs feed on sap, weaken vines, reduce cold hardiness, and can potentially cause vine death. Current removal methods are inconsistent, labor-intensive, and risk damaging vines, making it difficult to reliably reduce infestations.  
 
-<h2><b>Concept A: Radial Compression Mechanism</b></h2>
+<h2><b>IMPACT</b></h2>
+By focusing on destroying egg masses, fewer SLFs reach adulthood, reducing damage to grape vines and protecting yield. Our solution could be used beyond vineyards, as SLFs lay eggs on many surfaces. By enabling plant-safe, effective removal, a larger user base can tackle the root of infestations, maximizing impact on the population.  
 
-A mechanical tool designed to destroy egg masses directly on grapevines without damaging the plant. The device consists of a circular frame with a slit that surrounds the vine and positions a set of radially arranged claws around the egg mass. These claws are connected to a manual lever mechanism that converts the input force into inward radial motion. As the lever is pulled, the claws close uniformly around the egg mass, applying compressive force sufficient to crush and destroy the eggs.<br>
+<h2><b>PROPOSED DIRECTIONS</b></h2>
 
-<h3><b>Risks</b></h3>
+<b>Concept A: Radial Compression Mechanism</b><br>
+A mechanical tool designed to crush egg masses directly on grapevines without damaging the plant. The device has a circular frame with a slit that surrounds the vine and radially arranged claws around the egg mass. A manual lever converts input force into inward radial motion, uniformly crushing the eggs when pulled.  
 
-- <b>Risk of damaging vine:</b> If excessive compressive force is applied to the vine it could damage or break the vine.<br>
-- <b>Repeated compressions around the same spot:</b> Can behave like a clamp and create ring damage.<br>
-- <b>Incomplete egg mass destruction:</b> If the lever doesn't generate enough force, the mechanism may not have the strength to destroy the egg mass.<br>
+**Risks & Mitigation:**  
+- **Risk of vine damage:** Excessive force can harm or break the vine; repeated compressions could create ring damage. Mitigation: Test force thresholds to ensure eggs are destroyed safely.  
+- **Incomplete egg destruction:** Lever may not generate enough force. Mitigation: Prototype testing with mock egg masses ensures effectiveness.  
 
-<h3><b>Risk Mitigation</b></h3>
+---
 
-Figuring out the force threshold needed to destroy the egg masses while leaving the vines undamaged, so the egg masses can be destroyed without harming the plant.<br>
+<b>Concept B: Adaptive Needle Mold Mechanism</b><br>
+A flexible mold with many small, independently moving needles that conform to uneven surfaces like vines, branches, or bark. When pressed, the needles distribute force evenly to crush egg masses, even on curved or irregular surfaces. This design does not require precise alignment and adapts automatically to branch geometry.  
 
-<h2><b>Concept B: Mold Mechanism</b></h2>
+**Risks & Mitigation:**  
+- **Surface limitations:** May not conform to large surfaces like tree trunks; mitigated by configurable mold sizes.  
+- **Incomplete egg destruction:** Hard to visually confirm all eggs crushed; mitigated by testing and prototyping.  
+- **Force limitations:** Certain parts of a branch may not get enough pressure; mitigated through sufficient prototyping.  
 
-This mechanism uses a mold made of many small needles mounted on a flexible backing. Each needle can move independently, allowing the mold to change shape and conform to uneven surfaces such as vines, branches, and tree bark. When the mold is pressed onto a surface, the needles shift by different amounts to match the local geometry.<br>
+---
 
-As pressure is applied, the needles collectively apply enough force to break apart and crush spotted lantern fly egg masses, even when they are located on curved or irregular surfaces. Compared to a traditional claw or rigid gripper, this design does not require precise alignment and can automatically adapt to different branch sizes and shapes. This makes the mechanism more versatile and usable across many situations without requiring modification.<br>
+<b>Concept C: Decoy Tree of Heaven</b><br>
+A decoy mimicking the preferred Tree of Heaven, equipped with an automated scraping mechanism. Egg masses laid on the decoy are scraped into a pool of alcohol at the base, ensuring eggs are destroyed.  
 
-<h3><b>Risk & Mitigation</b></h3>
+**Risks & Mitigation:**  
+- **Impact on native insects:** Could unintentionally attract or harm other species; mitigated by careful placement and testing.  
+- **Mechanical failure:** Automated scraping could malfunction; mitigated through robust design and maintainable components.  
+- **Incomplete egg capture:** Scraped eggs may miss the alcohol pool; mitigated with nets or guides.  
 
-- There is risk of the mechanism not conforming to certain larger surfaces such as a tree trunk, but this could potentially be solved by allowing for different configurations of our mechanism.<br>
-- It would be hard to tell if all the egg masses are destroyed or not and wouldn’t allow for easily disposing of the egg masses.<br>
-- There could be insufficient force for certain parts of the vine/branch to crush the egg masses but this could be avoided through sufficient prototyping of our mechanism.<br>
+---
 
-<h2><b>General Key Risks (technical, usability, adoption, constraints)</b></h2>
+<h2><b>GENERAL KEY RISKS</b></h2>
+- Timing between egg laying and hatching may reduce the number of eggs removed, limiting population control.  
+- Damaging vines during removal.  
+- Improperly destroyed eggs could hatch if scraped to the ground; all concepts require safe disposal.  
 
-- Given the short time window between egg laying and hatching, it becomes difficult to remove enough egg masses to meaningfully slow population growth.<br>
-- Risk of damaging vines during egg removal.<br>
-- Risks that eggs are not properly destroyed; egg masses can hatch even if scraped off the plant, so proper disposal is critical.<br>
+<h2><b>QUESTIONS FOR THE CLIENT</b></h2>
+1. Is crushing the egg mass sufficient, or must it be fully removed and disposed of?  
+2. During what season are egg masses removed?  
+3. If crushing is sufficient, how much force is required to destroy them?  
+4. How tall are average grapevines, and can an average worker reach them?  
+5. Where are egg clusters most commonly located on a grapevine?  
+6. Are adult spotted lantern flies more attracted to the Tree of Heaven compared to grapevines?  
 
-<h2><b>Questions for the Client</b></h2>
+<h2><b>RESEARCH / REFERENCES</b></h2>
+- [Ohio Dept. of Agriculture: Spotted Lanternfly BMP](http://agri.ohio.gov/divisions/plant-health/invasive-pests/slf-bmp)  
+- [Penn State Extension: Egg Mass Handling](https://extension.psu.edu/what-should-you-do-with-spotted-lanternfly-egg-masses)  
 
-1. Is crushing the egg mass sufficient, or must it be fully removed and disposed of?<br>
-2. During what season are the egg masses removed?<br>
-3. If crushing the egg mass is sufficient, how much force is required to destroy them?<br>
-4. How tall are average grapevines, and can an average worker reach the required height?<br>
-5. Where are egg clusters typically found on a grapevine?<br>
-6. Are adult spotted lantern flies actually more attracted to the Tree of Heaven compared to grapevines?<br>
-
-<b>Technologies Used:</b> VS Code
-
-
-
-
-
+**Notes from research:**  
+- Egg masses may be squashed, scraped into soapy water or rubbing alcohol, or treated with horticultural oils.  
+- Eggs are laid late summer through early winter (majority in October).  
+- Each egg mass contains 30–50 eggs; a female can lay at least 2 egg masses.  
+- Dimensions: ~1.5 in long, brown/grey, with rows of small eggs.  
+- Scraped eggs can still hatch; care is needed for full destruction.  
+- Only 2% of egg masses are within reach; 98% are out of reach.  
