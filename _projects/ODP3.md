@@ -3,7 +3,7 @@ layout: project
 title: Sorry Little Fly - ODP
 description: Prototyping a mechanical device for MAE2250 in order to address the problem of the invasive Spotted Lantern Fly species in NY, particularly in upstate NY vineyards.
 technologies: []
-image: /assets/images/SquashedSLF.png
+image: /assets/images/slf.png
 
 ---
 <div style="display:flex; align-items:center; gap:40px; margin:30px 0;">
@@ -24,7 +24,7 @@ image: /assets/images/SquashedSLF.png
 
 ## <span style="background-color:#97bfcc; padding:6px 14px; border-radius:8px;">Client Pitch</span> {#client-pitch}
 
-Download this [Client Proposal]({{ "/assets/SLF/ClientProp.pdf" | relative_url }}) in PDF format.
+Download this [Client Proposal]({{ "/assets/ClientProp.pdf" | relative_url }}) in PDF format.
 
 **Team:** Sorry Little Fly  
 **Client(s):** Cornell CALS Extension / E&J Gallo Winery / National Grape  
@@ -172,4 +172,4 @@ To improve performance across varying branch diameters and irregular geometries,
 To prepare the device for real-world vineyard use, a telescoping handle will be added for extended reach and will provide a lightweight but rigid structure for portability. 
 
 
-View our [Functional Prototype]({{ "/assets/SLF/ODP5.pdf" | relative_url }}) in PDF format.
+View our [Functional Prototype]({{ "/assets/ODP5.pdf" | relative_url }}) in PDF format.
