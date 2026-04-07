@@ -34,7 +34,7 @@ Spotted lanternflies reproduce rapidly; each female lays 3 egg masses of 30–60
 
 **Impact:** Destroying egg masses reduces SLF reproduction, lowering seasonal infestations and protecting yield and vine health. A plant-safe, scalable tool could be used across vineyards and other sites, targeting the root source of infestations and increasing overall population control.
 
-### Concept A (primary): Radial Compression Mechanism
+### Concept: Radial Compression Mechanism
 **What it is:**  
 A handheld circular frame fits around the vine, positioning radially arranged claws over each egg mass. A manual lever converts input force into uniform inward radial compression, crushing and destroying eggs without damaging the plant.
 
