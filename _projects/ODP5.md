@@ -86,7 +86,7 @@ The primary components consist of RPL printed parts, including a small spur gear
 
 ##### Sketches
 <div style="display: grid; grid-template-columns: 1fr 1fr; gap: 10px; max-width: 800px; margin: auto;">
-  <img src="{{ '/assets/images/SK1.jpg' | relative_url }}" style="width:100%;">
+  <img src="{{ '/assets/images/SK1.png' | relative_url }}" style="width:100%;">
   <img src="{{ '/assets/images/SLF/MAE 2250-5.jpg' | relative_url }}" style="width:100%;">
   <img src="{{ '/assets/images/SLF/MAE 2250-6.jpg' | relative_url }}" style="width:100%;">
   <img src="{{ '/assets/images/SLF/MAE 2250-7.jpg' | relative_url }}" style="width:100%;">
