@@ -100,8 +100,8 @@ The primary components consist of RPL printed parts, including a small spur gear
   From testing, we found that the mechanism required approximately 5–7 N of force to open and 10–12 N to fully close. In terms of usability, these force levels are relatively low and fall well within the range of what a user can comfortably apply by hand. For comparison, everyday actions such as pressing a standard button or pulling a small drawer typically require forces on the order of 5–15 N, suggesting that the mechanism is not physically demanding to operate. However, the higher force required for closing may indicate inefficiencies in the design, such as friction losses in the pulley system or misalignment of moving parts.
 
 <div style="display:grid; grid-template-columns:1fr 1fr; gap:12px; max-width:800px; margin:auto;">
-  <img src="{{ '/assets/images/SLF/Force-Close.png' | relative_url }}" style="width:100%;">
-  <img src="{{ '/assets/images/SLF/Force-Open.png' | relative_url }}" style="width:100%;">
+  <img src="{{ '/assets/images/PullTest1.png' | relative_url }}" style="width:100%;">
+  <img src="{{ '/assets/images/PullTest2.png' | relative_url }}" style="width:100%;">
 </div>
 
 - *Design Changes:*
@@ -115,8 +115,8 @@ The primary components consist of RPL printed parts, including a small spur gear
   The radial compression mechanism was able to successfully apply force to the simulated egg masses and effectively scrape them from the vine model. However, during testing, we observed that the paper surface of the model vine tore along with the egg masses. This behavior is likely due to the relatively low strength and tear resistance of the paper compared to real grape vine bark. In practice, grape vine surfaces are more durable and would be less likely to fail under the same loading conditions. As a result, this test likely represents a conservative case, and in real-world conditions, the mechanism would be expected to remove egg masses without damaging the vine surface.
 
 <div style="display:grid; grid-template-columns:1fr 1fr; gap:12px; max-width:800px; margin:auto;">
-  <img src="{{ '/assets/images/SLF/MockTree1.png' | relative_url }}" style="width:100%;">
-  <img src="{{ '/assets/images/SLF/MockTree2.png' | relative_url }}" style="width:100%;">
+  <img src="{{ '/assets/images/EggBefore.png' | relative_url }}" style="width:100%;">
+  <img src="{{ '/assets/images/EggAfter.png' | relative_url }}" style="width:100%;">
 </div>
 
 - *Design Changes:*
@@ -129,8 +129,8 @@ The primary components consist of RPL printed parts, including a small spur gear
   After the 20 trials, we noticed that the radial motioned piece behaved consistently and there were no issues that emerged after repeated usage of the device with that particular component. This is something that we anticipated being problematic, and initially was, but was fixed with the implementation of washers and screws to make the fit tight but also have minimal friction to enable rotation. This was reassuring given our device will need to be able to sustain a heavy amount of use. However, over repeated use, the string that was attached to the pulley gradually loosened and eventually popped clean off. Additionally, the range of applied force varied through trials, but the results of opening and closing were consistent amongst trials, something that will be necessary given our device will be used through human labor. The angle in which we applied force to activate our device did result in slight error. Though applying the force from a negative horizontal angle had no effect on the device (maybe marginal friction increases), applying a force from a positive horizontal angle resulted in the top gear popping out from its connection to the large gear, impeding the device’s ability to open and close as intended. 
 
 <div style="display:grid; grid-template-columns:1fr 1fr; gap:12px; max-width:800px; margin:auto;">
-  <img src="{{ '/assets/images/SLF/Use1.png' | relative_url }}" style="width:100%;">
-  <img src="{{ '/assets/images/SLF/Use2.png' | relative_url }}" style="width:100%;">
+  <img src="{{ '/assets/images/Open.png' | relative_url }}" style="width:100%;">
+  <img src="{{ '/assets/images/Closed.png' | relative_url }}" style="width:100%;">
 </div>
 
 - *Design Changes:*
@@ -143,9 +143,9 @@ The primary components consist of RPL printed parts, including a small spur gear
   In the instance of the largest branch diameter, there was decent contact. In 8/10 trials, all teeth made contact with the branch, in 1/10 trials one tooth did not make contact and in 1/10 trials, 2 teeth did not make contact. In all trials, there was enough contact to hold the weight of the branch. However, the contact with each tooth onto the circumference of the tree branch only measured roughly 0.05” per tooth, which translates to 0.25” of coverage, whereas the branch itself is 3.14” of circumference. In the middle branch diameter, there was more consistent contact. In all 10 trials, each tooth sustained contact with the branch. This contact was shorter due to the nature of the branch and was roughly 0.02” per tooth. This translates to 0.1” of total circumference coverage out of a total 1.5” of circumference. Finally, the thinnest branch retained full teeth contact 10/10 trials. This contact was more minimal at roughly 0.01” per tooth and 0.05” circumference coverage out of 0.6” of total circumference. All branches, regardless of radius, had the same poor contact with the device at 8%, 7%, and 8% contact respectively. This is a reflection of a fundamental issue with our design that will be resolved in the next iteration.
 
 <div style="display:grid; grid-template-columns:1fr 1fr 1fr; gap:12px; max-width:900px; margin:auto;">
-  <img src="{{ '/assets/images/SLF/Stick1.png' | relative_url }}" style="width:100%;">
-  <img src="{{ '/assets/images/SLF/Stick2.png' | relative_url }}" style="width:100%;">
-  <img src="{{ '/assets/images/SLF/Stick3.png' | relative_url }}" style="width:100%;">
+  <img src="{{ '/assets/images/Stick1.png' | relative_url }}" style="width:100%;">
+  <img src="{{ '/assets/images/Stick2.png' | relative_url }}" style="width:100%;">
+  <img src="{{ '/assets/images/Stick3.png' | relative_url }}" style="width:100%;">
 </div>
 
 - *Design Changes:*
