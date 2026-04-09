@@ -100,8 +100,8 @@ The primary components consist of RPL printed parts, including a small spur gear
   From testing, we found that the mechanism required approximately 5–7 N of force to open and 10–12 N to fully close. In terms of usability, these force levels are relatively low and fall well within the range of what a user can comfortably apply by hand. For comparison, everyday actions such as pressing a standard button or pulling a small drawer typically require forces on the order of 5–15 N, suggesting that the mechanism is not physically demanding to operate. However, the higher force required for closing may indicate inefficiencies in the design, such as friction losses in the pulley system or misalignment of moving parts.
 
 <div style="display:grid; grid-template-columns:1fr 1fr; gap:12px; max-width:800px; margin:auto;">
-  <img src="{{ '/assets/images/PullTest1.png' | relative_url }}" style="width:100%;">
-  <img src="{{ '/assets/images/PullTest2.png' | relative_url }}" style="width:100%;">
+  <img src="{{ '/assets/images/PullTest1.jpg' | relative_url }}" style="width:100%;">
+  <img src="{{ '/assets/images/PullTest2.jpg' | relative_url }}" style="width:100%;">
 </div>
 
 - *Design Changes:*
@@ -115,8 +115,8 @@ The primary components consist of RPL printed parts, including a small spur gear
   The radial compression mechanism was able to successfully apply force to the simulated egg masses and effectively scrape them from the vine model. However, during testing, we observed that the paper surface of the model vine tore along with the egg masses. This behavior is likely due to the relatively low strength and tear resistance of the paper compared to real grape vine bark. In practice, grape vine surfaces are more durable and would be less likely to fail under the same loading conditions. As a result, this test likely represents a conservative case, and in real-world conditions, the mechanism would be expected to remove egg masses without damaging the vine surface.
 
 <div style="display:grid; grid-template-columns:1fr 1fr; gap:12px; max-width:800px; margin:auto;">
-  <img src="{{ '/assets/images/EggBefore.png' | relative_url }}" style="width:100%;">
-  <img src="{{ '/assets/images/EggAfter.png' | relative_url }}" style="width:100%;">
+  <img src="{{ '/assets/images/EggBefore.jpg' | relative_url }}" style="width:100%;">
+  <img src="{{ '/assets/images/EggAfter.jpg' | relative_url }}" style="width:100%;">
 </div>
 
 - *Design Changes:*
@@ -129,8 +129,8 @@ The primary components consist of RPL printed parts, including a small spur gear
   After the 20 trials, we noticed that the radial motioned piece behaved consistently and there were no issues that emerged after repeated usage of the device with that particular component. This is something that we anticipated being problematic, and initially was, but was fixed with the implementation of washers and screws to make the fit tight but also have minimal friction to enable rotation. This was reassuring given our device will need to be able to sustain a heavy amount of use. However, over repeated use, the string that was attached to the pulley gradually loosened and eventually popped clean off. Additionally, the range of applied force varied through trials, but the results of opening and closing were consistent amongst trials, something that will be necessary given our device will be used through human labor. The angle in which we applied force to activate our device did result in slight error. Though applying the force from a negative horizontal angle had no effect on the device (maybe marginal friction increases), applying a force from a positive horizontal angle resulted in the top gear popping out from its connection to the large gear, impeding the device’s ability to open and close as intended. 
 
 <div style="display:grid; grid-template-columns:1fr 1fr; gap:12px; max-width:800px; margin:auto;">
-  <img src="{{ '/assets/images/Open.png' | relative_url }}" style="width:100%;">
-  <img src="{{ '/assets/images/Closed.png' | relative_url }}" style="width:100%;">
+  <img src="{{ '/assets/images/Open.jpg' | relative_url }}" style="width:100%;">
+  <img src="{{ '/assets/images/Closed.jpg' | relative_url }}" style="width:100%;">
 </div>
 
 - *Design Changes:*
