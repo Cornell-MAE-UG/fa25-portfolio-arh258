@@ -172,4 +172,4 @@ To improve performance across varying branch diameters and irregular geometries,
 To prepare the device for real-world vineyard use, a telescoping handle will be added for extended reach and will provide a lightweight but rigid structure for portability. 
 
 
-View our [Functional Prototype]({{ "/assets/PosterPDF.pdf" | relative_url }}) in PDF format.
+View our [Project Poster]({{ "/assets/PosterPDF.pdf" | relative_url }}) in PDF format.
